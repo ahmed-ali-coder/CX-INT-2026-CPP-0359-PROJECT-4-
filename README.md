@@ -1,0 +1,1 @@
+Developed a console-based Library Management System using C++. The project implements structures, pointers, dynamic memory allocation, file handling, searching, sorting, book issuing/returning, member management, fine calculation, and library reports. This project helped strengthen my understanding of C++ programming and data management concepts.
